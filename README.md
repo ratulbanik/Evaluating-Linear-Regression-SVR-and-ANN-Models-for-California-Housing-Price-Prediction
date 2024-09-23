@@ -33,7 +33,9 @@ The project utilizes a modified version of the California Housing Prices dataset
 
 **Dataset Description:** [Refer to the provided dataset link for a detailed description.]
 
-## Instructions to Run Locally
+## Instructions to Run 
+
+### Running Locally
 
 This project uses a Jupyter Notebook for analysis. 
 
@@ -51,7 +53,7 @@ This project uses a Jupyter Notebook for analysis.
 7. **Start Jupyter Notebook:** `jupyter notebook`
 8. **Open the notebook:** Click on `california_housing_analysis.ipynb` within the Jupyter interface to open and run the notebook.
 
-## Running in Google Colab
+### Running in Google Colab
 
 You can run this project directly in your browser using Google Colab:
 
