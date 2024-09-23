@@ -53,10 +53,10 @@ This project uses a Jupyter Notebook for analysis.
 
 ## Running in Google Colab
 
-You can run this project directly in your browser using Google Colab. Here's how:
+You can run this project directly in your browser using Google Colab:
 
-1. **Open the notebook in Colab:** Click on the "Open in Colab" badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ratulbanik/Evaluating-Linear-Regression-SVR-and-ANN-Models-for-California-Housing-Price-Prediction/blob/main/notebooks/california_housing_analysis.ipynb)
-2. **Connect to a runtime:** Colab will prompt you to connect to a runtime environment. Select a GPU or TPU runtime if your analysis requires it.
+1. **Open the notebook in Colab:**  Click on the "Open in Colab" badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ratulbanik/Evaluating-Linear-Regression-SVR-and-ANN-Models-for-California-Housing-Price-Prediction/blob/main/notebooks/california_housing_analysis.ipynb) 
+2. **Connect to a runtime:** Colab will prompt you to connect to a runtime environment. Select a GPU or TPU runtime if your analysis benefits from it.
 3. **Run the cells:** The notebook is now ready! Execute the cells in order to run the code.
 
 **Note:** You might need to install some dependencies within the Colab notebook if they are not already available in the Colab environment. 
